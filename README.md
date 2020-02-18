@@ -4,11 +4,12 @@ My name is Faith. I am a medical technologist looking to make a career change! I
 
 ## Profiles
 * [GitHub](https://github.com/Faith2Faith)
+
 ## Technical Skills
 * Coming soon:
 * Python
 * Javascript 
- master
+
  ## For fun
 * Concerts
 * K-drama
